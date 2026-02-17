@@ -6,4 +6,4 @@ dengue_1st_pass.fasta
 "Return"
 "Return"
 
-Data contains sequences pertaining to various sequence records of Dengue Virus
+Data contains sequences pertaining to various sequence records of Dengue Virusx
